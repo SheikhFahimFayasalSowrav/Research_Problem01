@@ -19,7 +19,8 @@ have the fundamental knowledge of coding and capable of doing:
 - ETC.
 ***
 Now, it's time to step forward and practice if we can solve some research problems of our own. 
-***Read the following instructions carefully and the example as well.*** It's not necessary to 
+***Read the following instructions carefully and you can write your code in the main.py file of this
+repository.*** It's not necessary to 
 solve the exampled problem, you can also relate the same with your own research (if any).
 ***
 ## 1. **Oceanography and Hydrography Group:**
